@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-__author__ = 'SunXinLei'
 
 
 # webdriver page object 基础公用方法
